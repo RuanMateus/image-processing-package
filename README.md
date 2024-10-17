@@ -1,6 +1,5 @@
 # image_processing
 
-Descrição. 
 The package package_name is used to:
 	Processing:
 		- Histogram matching

@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: image_processing_package
+Version: 0.0.1
+Summary: Programa que pega duas imagens e retorna a diferença entre elas, a imagem 1 com o histograma da imagem 2
+Author: Ruan Mateus
+Author-email: ruanmateusbsb@gmail.com
+Requires-Python: >=3.5
+Description-Content-Type: text/markdown
+Requires-Dist: matplotlib
+Requires-Dist: numpy
+Requires-Dist: scikit-image>=0.16.1
